@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OnClicks</string>
+    <string name="botonA">Botón A</string>
+    <string name="botonB">Botón B</string>
+</resources>
